@@ -55,6 +55,8 @@ Open `http://localhost:5173`
 
 `https://lhnagodehucixzhprgkq.supabase.co`
 
+**Note**: This is my project URL. If you clone this repo, create your own Supabase project and use your own URL in the `.env` file.
+
 ## Assumptions Made
 
 1. **No Authentication**: User is already logged in (as per requirements)
